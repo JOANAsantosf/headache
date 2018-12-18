@@ -2,7 +2,13 @@ body{
 	background-color:powderblue;
 	}
 h1{
+<<<<<<< HEAD
 	color: blue;
 p{
 	color:red;
+=======
+	color: white;
+p{
+	color:purple;
+>>>>>>> style
  }
